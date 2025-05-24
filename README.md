@@ -48,9 +48,7 @@ Key visualizations include:
 
 ## 📸 Preview
 
-*(Insert screenshots or link to dashboard hosted on Tableau Public)*
 
-📌 [Live Dashboard on Tableau Public](#) *(Add your link here)*
 
 ---
 
